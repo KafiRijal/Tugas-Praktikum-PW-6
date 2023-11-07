@@ -1,0 +1,31 @@
+    h1{
+        color: yellow;
+        background-color: green;
+        text-align: center;
+
+    }
+    body{
+        background-color: yellowgreen;
+    }
+    p{
+        text-align: justify;
+        width: fit-content;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+        padding: 5px;
+    }   
+    .cod{
+        margin: auto;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .cod p{
+        background-color: green;
+        border: 1px dotted black;
+        text-align: center;
+        font-weight: bold;
+        color: yellow;
+    }
